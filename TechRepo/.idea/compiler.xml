@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="GuavaTest" />
+        <module name="PcapAnalizer" />
       </profile>
     </annotationProcessing>
   </component>

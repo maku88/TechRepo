@@ -1,4 +1,4 @@
-package GuavaTest;
+package pl.maku.tech.guavaTest;
 
 import com.google.common.base.Predicate;
 

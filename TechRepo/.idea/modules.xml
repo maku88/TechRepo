@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GuavaTest/GuavaTest.iml" filepath="$PROJECT_DIR$/GuavaTest/GuavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PcapAnalizer/PcapAnalizer.iml" filepath="$PROJECT_DIR$/PcapAnalizer/PcapAnalizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/TechRepo.iml" filepath="$PROJECT_DIR$/TechRepo.iml" />
     </modules>
   </component>
